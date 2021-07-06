@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // TODO: implement build
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: '쁠루타 웹',
       theme: ThemeData(primarySwatch: Colors.blue, fontFamily: "Corben"),
       home: MyHomePage(),
     );
