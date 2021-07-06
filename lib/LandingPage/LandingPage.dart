@@ -9,7 +9,7 @@ class LandingPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             Text(
-              "Website \nDevelopers",
+              "Starcue \nDevelopers",
               style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 40.0,
@@ -18,7 +18,7 @@ class LandingPage extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.symmetric(vertical: 20.0),
               child: Text(
-                "We have taken each and every project handed over to up as a challenge, which has helped us achieve a high project success rage.",
+                "스타큐 개발자홈페이지. web",
                 style: TextStyle(fontSize: 16.0, color: Colors.white),
               ),
             ),
